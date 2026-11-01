@@ -1,0 +1,307 @@
+incident_id,opened,business_unit,attack_technique_id,attack_technique,attack_tactic,hours_to_detect,hours_to_contain
+INC0001,2024-10-30,Engineering,T1110,Brute Force,Credential Access,10.1,15.7
+INC0002,2024-11-02,Corporate IT,T1021,Remote Services,Lateral Movement,25.4,17.0
+INC0003,2024-11-03,Supply Chain,T1566,Phishing,Initial Access,41.0,10.7
+INC0004,2024-10-29,Corporate IT,T1021,Remote Services,Lateral Movement,16.8,21.2
+INC0005,2024-11-03,Plant OT,T1567,Exfiltration Over Web Service,Exfiltration,12.1,36.0
+INC0006,2024-11-05,Engineering,T1566,Phishing,Initial Access,14.6,50.7
+INC0007,2024-11-06,Engineering,T1078,Valid Accounts,Initial Access,16.2,83.7
+INC0008,2024-11-07,Corporate IT,T1078,Valid Accounts,Initial Access,35.7,21.6
+INC0009,2024-11-04,Engineering,T1110,Brute Force,Credential Access,17.7,70.0
+INC0010,2024-11-05,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,13.1,22.1
+INC0011,2024-11-08,Plant OT,T1110,Brute Force,Credential Access,20.9,26.4
+INC0012,2024-11-14,Engineering,T1486,Data Encrypted for Impact,Impact,12.3,57.1
+INC0013,2024-11-19,Engineering,T1566,Phishing,Initial Access,17.0,13.9
+INC0014,2024-11-24,Engineering,T1566,Phishing,Initial Access,24.7,45.2
+INC0015,2024-11-29,Plant OT,T1110,Brute Force,Credential Access,20.2,37.0
+INC0016,2024-11-26,Plant OT,T1567,Exfiltration Over Web Service,Exfiltration,30.8,31.1
+INC0017,2024-11-27,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,17.1,75.8
+INC0018,2024-11-29,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,18.0,22.5
+INC0019,2024-12-10,Plant OT,T1078,Valid Accounts,Initial Access,15.2,19.5
+INC0020,2024-12-11,Plant OT,T1566,Phishing,Initial Access,18.5,45.6
+INC0021,2024-12-17,Corporate IT,T1566,Phishing,Initial Access,12.1,19.1
+INC0022,2024-12-18,Plant OT,T1078,Valid Accounts,Initial Access,19.2,46.4
+INC0023,2024-12-21,Corporate IT,T1567,Exfiltration Over Web Service,Exfiltration,19.8,24.5
+INC0024,2024-12-27,Supply Chain,T1078,Valid Accounts,Initial Access,8.4,32.3
+INC0025,2024-12-23,Supply Chain,T1059,Command and Scripting Interpreter,Execution,12.1,37.1
+INC0026,2024-12-24,Corporate IT,T1059,Command and Scripting Interpreter,Execution,6.5,35.4
+INC0027,2025-01-04,Plant OT,T1059,Command and Scripting Interpreter,Execution,17.8,56.6
+INC0028,2025-01-02,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,15.0,26.9
+INC0029,2025-01-07,Corporate IT,T1566,Phishing,Initial Access,12.7,28.3
+INC0030,2025-01-10,Plant OT,T1566,Phishing,Initial Access,36.3,47.9
+INC0031,2025-01-09,Corporate IT,T1566,Phishing,Initial Access,10.6,15.5
+INC0032,2025-01-15,Corporate IT,T1566,Phishing,Initial Access,13.1,27.3
+INC0033,2025-01-16,Supply Chain,T1566,Phishing,Initial Access,5.6,11.9
+INC0034,2025-01-17,Engineering,T1059,Command and Scripting Interpreter,Execution,20.0,24.4
+INC0035,2025-01-13,Corporate IT,T1078,Valid Accounts,Initial Access,12.6,69.5
+INC0036,2025-01-25,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,18.8,35.3
+INC0037,2025-01-25,Engineering,T1566,Phishing,Initial Access,19.1,88.2
+INC0038,2025-01-25,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,25.6,20.7
+INC0039,2025-01-25,Engineering,T1059,Command and Scripting Interpreter,Execution,36.3,21.8
+INC0040,2025-01-30,Corporate IT,T1566,Phishing,Initial Access,13.5,51.3
+INC0041,2025-01-27,Corporate IT,T1110,Brute Force,Credential Access,13.2,50.6
+INC0042,2025-02-01,Plant OT,T1078,Valid Accounts,Initial Access,27.9,55.6
+INC0043,2025-02-04,Supply Chain,T1566,Phishing,Initial Access,17.1,32.5
+INC0044,2025-02-10,Corporate IT,T1021,Remote Services,Lateral Movement,5.7,39.5
+INC0045,2025-02-10,Plant OT,T1486,Data Encrypted for Impact,Impact,39.4,73.9
+INC0046,2025-02-10,Engineering,T1110,Brute Force,Credential Access,9.3,17.6
+INC0047,2025-02-19,Corporate IT,T1110,Brute Force,Credential Access,14.3,29.8
+INC0048,2025-02-22,Corporate IT,T1566,Phishing,Initial Access,21.5,34.5
+INC0049,2025-02-22,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,25.2,24.2
+INC0050,2025-02-23,Supply Chain,T1021,Remote Services,Lateral Movement,8.7,78.9
+INC0051,2025-02-21,Supply Chain,T1486,Data Encrypted for Impact,Impact,9.5,95.6
+INC0052,2025-02-18,Supply Chain,T1059,Command and Scripting Interpreter,Execution,13.0,33.6
+INC0053,2025-02-24,Corporate IT,T1567,Exfiltration Over Web Service,Exfiltration,24.4,24.0
+INC0054,2025-03-01,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,34.6,35.0
+INC0055,2025-03-02,Corporate IT,T1059,Command and Scripting Interpreter,Execution,28.5,23.1
+INC0056,2025-02-26,Corporate IT,T1566,Phishing,Initial Access,23.0,36.3
+INC0057,2025-02-28,Supply Chain,T1110,Brute Force,Credential Access,41.5,23.9
+INC0058,2025-02-25,Plant OT,T1486,Data Encrypted for Impact,Impact,13.3,30.0
+INC0059,2025-02-26,Engineering,T1110,Brute Force,Credential Access,13.8,30.4
+INC0060,2025-03-09,Supply Chain,T1078,Valid Accounts,Initial Access,6.8,44.0
+INC0061,2025-03-05,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,18.8,35.2
+INC0062,2025-03-08,Engineering,T1110,Brute Force,Credential Access,3.8,28.4
+INC0063,2025-03-18,Engineering,T1190,Exploit Public-Facing Application,Initial Access,29.7,30.2
+INC0064,2025-03-18,Plant OT,T1566,Phishing,Initial Access,22.8,27.2
+INC0065,2025-03-22,Supply Chain,T1110,Brute Force,Credential Access,17.4,45.3
+INC0066,2025-03-27,Plant OT,T1566,Phishing,Initial Access,22.2,19.9
+INC0067,2025-03-26,Supply Chain,T1566,Phishing,Initial Access,12.5,48.0
+INC0068,2025-03-29,Corporate IT,T1567,Exfiltration Over Web Service,Exfiltration,13.3,58.4
+INC0069,2025-03-28,Corporate IT,T1078,Valid Accounts,Initial Access,8.2,32.1
+INC0070,2025-04-06,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,11.9,16.3
+INC0071,2025-04-04,Engineering,T1078,Valid Accounts,Initial Access,16.8,22.1
+INC0072,2025-04-04,Plant OT,T1078,Valid Accounts,Initial Access,34.9,64.6
+INC0073,2025-04-10,Supply Chain,T1566,Phishing,Initial Access,23.5,61.6
+INC0074,2025-04-13,Corporate IT,T1566,Phishing,Initial Access,8.3,44.7
+INC0075,2025-04-07,Corporate IT,T1566,Phishing,Initial Access,18.7,29.7
+INC0076,2025-04-16,Plant OT,T1059,Command and Scripting Interpreter,Execution,21.7,39.7
+INC0077,2025-04-17,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,7.8,21.7
+INC0078,2025-04-23,Corporate IT,T1110,Brute Force,Credential Access,16.0,85.7
+INC0079,2025-04-25,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,12.3,32.9
+INC0080,2025-04-26,Supply Chain,T1078,Valid Accounts,Initial Access,10.9,65.0
+INC0081,2025-05-03,Corporate IT,T1566,Phishing,Initial Access,20.3,34.2
+INC0082,2025-04-30,Engineering,T1059,Command and Scripting Interpreter,Execution,12.5,51.7
+INC0083,2025-05-06,Supply Chain,T1078,Valid Accounts,Initial Access,20.4,34.6
+INC0084,2025-05-05,Plant OT,T1078,Valid Accounts,Initial Access,20.2,72.7
+INC0085,2025-05-05,Supply Chain,T1190,Exploit Public-Facing Application,Initial Access,13.2,14.6
+INC0086,2025-05-05,Plant OT,T1566,Phishing,Initial Access,19.4,34.8
+INC0087,2025-05-10,Corporate IT,T1059,Command and Scripting Interpreter,Execution,30.3,40.2
+INC0088,2025-05-09,Plant OT,T1566,Phishing,Initial Access,25.1,29.1
+INC0089,2025-05-15,Plant OT,T1021,Remote Services,Lateral Movement,45.1,39.5
+INC0090,2025-05-17,Engineering,T1190,Exploit Public-Facing Application,Initial Access,12.5,30.6
+INC0091,2025-05-18,Corporate IT,T1021,Remote Services,Lateral Movement,7.1,46.5
+INC0092,2025-05-15,Plant OT,T1567,Exfiltration Over Web Service,Exfiltration,15.1,46.8
+INC0093,2025-05-15,Supply Chain,T1566,Phishing,Initial Access,23.5,13.1
+INC0094,2025-05-30,Engineering,T1078,Valid Accounts,Initial Access,8.5,14.0
+INC0095,2025-06-04,Engineering,T1566,Phishing,Initial Access,11.7,47.8
+INC0096,2025-06-04,Supply Chain,T1021,Remote Services,Lateral Movement,14.7,9.5
+INC0097,2025-06-05,Supply Chain,T1566,Phishing,Initial Access,31.5,40.3
+INC0098,2025-06-11,Engineering,T1078,Valid Accounts,Initial Access,12.6,17.7
+INC0099,2025-06-09,Plant OT,T1566,Phishing,Initial Access,13.0,18.0
+INC0100,2025-06-12,Corporate IT,T1059,Command and Scripting Interpreter,Execution,34.5,50.0
+INC0101,2025-06-29,Corporate IT,T1566,Phishing,Initial Access,9.1,36.5
+INC0102,2025-06-23,Engineering,T1021,Remote Services,Lateral Movement,10.3,24.9
+INC0103,2025-06-25,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,9.2,70.3
+INC0104,2025-07-01,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,8.1,45.7
+INC0105,2025-07-02,Corporate IT,T1059,Command and Scripting Interpreter,Execution,26.1,61.3
+INC0106,2025-07-04,Supply Chain,T1078,Valid Accounts,Initial Access,51.1,14.9
+INC0107,2025-06-30,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,39.1,35.2
+INC0108,2025-07-06,Engineering,T1190,Exploit Public-Facing Application,Initial Access,12.2,12.5
+INC0109,2025-07-08,Engineering,T1566,Phishing,Initial Access,8.8,42.4
+INC0110,2025-07-07,Engineering,T1078,Valid Accounts,Initial Access,19.0,17.8
+INC0111,2025-07-12,Engineering,T1190,Exploit Public-Facing Application,Initial Access,12.3,27.6
+INC0112,2025-07-07,Supply Chain,T1078,Valid Accounts,Initial Access,7.3,19.5
+INC0113,2025-07-13,Engineering,T1566,Phishing,Initial Access,28.6,14.1
+INC0114,2025-07-08,Corporate IT,T1078,Valid Accounts,Initial Access,8.4,9.1
+INC0115,2025-07-15,Plant OT,T1566,Phishing,Initial Access,30.2,61.2
+INC0116,2025-07-20,Engineering,T1110,Brute Force,Credential Access,25.7,41.3
+INC0117,2025-07-17,Corporate IT,T1110,Brute Force,Credential Access,11.5,53.8
+INC0118,2025-07-16,Engineering,T1566,Phishing,Initial Access,14.3,38.4
+INC0119,2025-07-20,Supply Chain,T1567,Exfiltration Over Web Service,Exfiltration,45.1,52.9
+INC0120,2025-07-25,Corporate IT,T1078,Valid Accounts,Initial Access,19.1,16.5
+INC0121,2025-08-01,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,4.9,35.5
+INC0122,2025-07-29,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,11.2,10.4
+INC0123,2025-07-31,Supply Chain,T1566,Phishing,Initial Access,24.0,8.2
+INC0124,2025-08-02,Supply Chain,T1566,Phishing,Initial Access,16.1,50.1
+INC0125,2025-07-29,Engineering,T1566,Phishing,Initial Access,35.3,33.7
+INC0126,2025-07-31,Corporate IT,T1566,Phishing,Initial Access,16.9,18.0
+INC0127,2025-08-03,Supply Chain,T1486,Data Encrypted for Impact,Impact,20.9,23.3
+INC0128,2025-08-10,Supply Chain,T1021,Remote Services,Lateral Movement,14.3,26.1
+INC0129,2025-08-10,Corporate IT,T1078,Valid Accounts,Initial Access,11.7,39.3
+INC0130,2025-08-09,Corporate IT,T1567,Exfiltration Over Web Service,Exfiltration,20.4,56.9
+INC0131,2025-08-04,Supply Chain,T1110,Brute Force,Credential Access,10.8,39.0
+INC0132,2025-08-17,Plant OT,T1566,Phishing,Initial Access,35.1,57.6
+INC0133,2025-08-22,Engineering,T1078,Valid Accounts,Initial Access,21.8,59.3
+INC0134,2025-08-20,Engineering,T1566,Phishing,Initial Access,16.9,29.2
+INC0135,2025-08-20,Supply Chain,T1078,Valid Accounts,Initial Access,20.2,22.2
+INC0136,2025-08-28,Supply Chain,T1021,Remote Services,Lateral Movement,47.7,22.2
+INC0137,2025-08-31,Supply Chain,T1059,Command and Scripting Interpreter,Execution,26.1,60.6
+INC0138,2025-08-29,Supply Chain,T1566,Phishing,Initial Access,11.1,50.6
+INC0139,2025-09-05,Supply Chain,T1566,Phishing,Initial Access,11.7,25.8
+INC0140,2025-09-07,Plant OT,T1566,Phishing,Initial Access,12.2,22.7
+INC0141,2025-09-02,Corporate IT,T1566,Phishing,Initial Access,13.7,81.7
+INC0142,2025-09-01,Engineering,T1567,Exfiltration Over Web Service,Exfiltration,11.6,23.8
+INC0143,2025-09-01,Corporate IT,T1078,Valid Accounts,Initial Access,8.2,35.1
+INC0144,2025-09-08,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,35.6,40.2
+INC0145,2025-09-10,Supply Chain,T1567,Exfiltration Over Web Service,Exfiltration,10.1,39.5
+INC0146,2025-09-08,Engineering,T1566,Phishing,Initial Access,17.6,30.2
+INC0147,2025-09-14,Plant OT,T1110,Brute Force,Credential Access,20.8,27.5
+INC0148,2025-09-11,Corporate IT,T1566,Phishing,Initial Access,7.7,6.5
+INC0149,2025-09-19,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,11.8,31.5
+INC0150,2025-09-17,Corporate IT,T1021,Remote Services,Lateral Movement,16.8,21.3
+INC0151,2025-09-17,Supply Chain,T1078,Valid Accounts,Initial Access,9.1,29.3
+INC0152,2025-09-17,Engineering,T1059,Command and Scripting Interpreter,Execution,9.2,12.7
+INC0153,2025-09-16,Plant OT,T1110,Brute Force,Credential Access,6.0,38.5
+INC0154,2025-09-23,Plant OT,T1566,Phishing,Initial Access,16.7,36.2
+INC0155,2025-09-30,Supply Chain,T1110,Brute Force,Credential Access,10.7,55.7
+INC0156,2025-09-29,Corporate IT,T1486,Data Encrypted for Impact,Impact,39.9,40.5
+INC0157,2025-10-01,Plant OT,T1078,Valid Accounts,Initial Access,29.8,50.8
+INC0158,2025-10-04,Engineering,T1190,Exploit Public-Facing Application,Initial Access,17.9,24.8
+INC0159,2025-10-05,Corporate IT,T1566,Phishing,Initial Access,15.5,58.0
+INC0160,2025-09-29,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,6.4,25.5
+INC0161,2025-10-05,Supply Chain,T1190,Exploit Public-Facing Application,Initial Access,10.5,20.5
+INC0162,2025-10-11,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,5.7,27.6
+INC0163,2025-10-10,Plant OT,T1078,Valid Accounts,Initial Access,52.6,18.9
+INC0164,2025-10-09,Engineering,T1078,Valid Accounts,Initial Access,13.5,78.8
+INC0165,2025-10-09,Corporate IT,T1566,Phishing,Initial Access,9.5,56.8
+INC0166,2025-10-12,Supply Chain,T1110,Brute Force,Credential Access,15.6,23.0
+INC0167,2025-10-19,Supply Chain,T1078,Valid Accounts,Initial Access,12.1,26.1
+INC0168,2025-10-14,Engineering,T1059,Command and Scripting Interpreter,Execution,9.6,28.5
+INC0169,2025-10-16,Engineering,T1567,Exfiltration Over Web Service,Exfiltration,10.2,18.0
+INC0170,2025-10-14,Engineering,T1566,Phishing,Initial Access,17.1,85.9
+INC0171,2025-10-20,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,10.6,43.5
+INC0172,2025-10-22,Supply Chain,T1190,Exploit Public-Facing Application,Initial Access,15.8,25.1
+INC0173,2025-10-21,Corporate IT,T1566,Phishing,Initial Access,32.7,161.2
+INC0174,2025-10-25,Engineering,T1566,Phishing,Initial Access,22.6,44.8
+INC0175,2025-11-02,Plant OT,T1566,Phishing,Initial Access,10.8,42.6
+INC0176,2025-10-31,Plant OT,T1059,Command and Scripting Interpreter,Execution,7.4,103.7
+INC0177,2025-11-03,Engineering,T1110,Brute Force,Credential Access,10.1,39.7
+INC0178,2025-11-05,Supply Chain,T1078,Valid Accounts,Initial Access,14.5,19.8
+INC0179,2025-11-04,Corporate IT,T1566,Phishing,Initial Access,8.0,16.3
+INC0180,2025-11-05,Corporate IT,T1486,Data Encrypted for Impact,Impact,34.8,34.7
+INC0181,2025-11-14,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,6.3,14.1
+INC0182,2025-11-11,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,16.0,54.1
+INC0183,2025-11-13,Supply Chain,T1566,Phishing,Initial Access,15.0,20.0
+INC0184,2025-11-22,Engineering,T1567,Exfiltration Over Web Service,Exfiltration,14.9,29.6
+INC0185,2025-11-24,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,9.1,28.4
+INC0186,2025-12-02,Engineering,T1566,Phishing,Initial Access,12.1,94.7
+INC0187,2025-12-02,Plant OT,T1486,Data Encrypted for Impact,Impact,19.5,12.6
+INC0188,2025-12-03,Engineering,T1566,Phishing,Initial Access,10.2,34.6
+INC0189,2025-12-07,Supply Chain,T1566,Phishing,Initial Access,5.5,33.2
+INC0190,2025-12-05,Corporate IT,T1566,Phishing,Initial Access,18.9,18.3
+INC0191,2025-12-02,Engineering,T1110,Brute Force,Credential Access,11.1,25.3
+INC0192,2025-12-13,Engineering,T1110,Brute Force,Credential Access,11.4,70.9
+INC0193,2025-12-15,Engineering,T1566,Phishing,Initial Access,13.4,17.2
+INC0194,2025-12-15,Engineering,T1566,Phishing,Initial Access,13.2,24.1
+INC0195,2025-12-23,Corporate IT,T1059,Command and Scripting Interpreter,Execution,24.3,62.4
+INC0196,2026-01-01,Corporate IT,T1059,Command and Scripting Interpreter,Execution,11.0,29.3
+INC0197,2025-12-30,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,8.3,49.4
+INC0198,2026-01-01,Engineering,T1059,Command and Scripting Interpreter,Execution,17.0,50.1
+INC0199,2026-01-04,Plant OT,T1110,Brute Force,Credential Access,10.9,38.8
+INC0200,2025-12-30,Engineering,T1190,Exploit Public-Facing Application,Initial Access,69.8,14.8
+INC0201,2026-01-05,Corporate IT,T1078,Valid Accounts,Initial Access,39.1,20.9
+INC0202,2026-01-05,Corporate IT,T1059,Command and Scripting Interpreter,Execution,22.9,16.5
+INC0203,2026-01-10,Supply Chain,T1059,Command and Scripting Interpreter,Execution,6.8,68.4
+INC0204,2026-01-06,Supply Chain,T1078,Valid Accounts,Initial Access,20.1,23.9
+INC0205,2026-01-18,Engineering,T1566,Phishing,Initial Access,28.7,45.6
+INC0206,2026-01-17,Engineering,T1566,Phishing,Initial Access,13.4,28.6
+INC0207,2026-01-18,Supply Chain,T1566,Phishing,Initial Access,48.5,21.9
+INC0208,2026-01-25,Supply Chain,T1021,Remote Services,Lateral Movement,12.7,19.6
+INC0209,2026-01-22,Corporate IT,T1078,Valid Accounts,Initial Access,9.8,26.3
+INC0210,2026-01-27,Supply Chain,T1059,Command and Scripting Interpreter,Execution,21.4,20.8
+INC0211,2026-01-27,Supply Chain,T1566,Phishing,Initial Access,9.8,40.3
+INC0212,2026-01-29,Corporate IT,T1078,Valid Accounts,Initial Access,31.8,61.6
+INC0213,2026-01-26,Plant OT,T1078,Valid Accounts,Initial Access,22.2,26.9
+INC0214,2026-02-05,Supply Chain,T1566,Phishing,Initial Access,7.3,80.2
+INC0215,2026-02-02,Plant OT,T1566,Phishing,Initial Access,10.6,14.0
+INC0216,2026-02-14,Plant OT,T1078,Valid Accounts,Initial Access,11.1,28.0
+INC0217,2026-02-17,Supply Chain,T1566,Phishing,Initial Access,13.8,23.6
+INC0218,2026-02-26,Plant OT,T1021,Remote Services,Lateral Movement,8.4,46.1
+INC0219,2026-02-27,Plant OT,T1566,Phishing,Initial Access,17.0,13.8
+INC0220,2026-02-23,Corporate IT,T1021,Remote Services,Lateral Movement,44.3,54.7
+INC0221,2026-02-23,Plant OT,T1078,Valid Accounts,Initial Access,10.6,17.4
+INC0222,2026-03-06,Plant OT,T1567,Exfiltration Over Web Service,Exfiltration,15.7,55.6
+INC0223,2026-03-02,Corporate IT,T1566,Phishing,Initial Access,39.1,27.6
+INC0224,2026-03-09,Engineering,T1078,Valid Accounts,Initial Access,11.7,26.6
+INC0225,2026-03-10,Engineering,T1059,Command and Scripting Interpreter,Execution,14.1,51.4
+INC0226,2026-03-10,Supply Chain,T1566,Phishing,Initial Access,17.8,16.2
+INC0227,2026-03-26,Supply Chain,T1566,Phishing,Initial Access,22.8,103.7
+INC0228,2026-03-29,Plant OT,T1566,Phishing,Initial Access,11.3,32.0
+INC0229,2026-03-25,Engineering,T1110,Brute Force,Credential Access,27.5,53.5
+INC0230,2026-03-23,Engineering,T1059,Command and Scripting Interpreter,Execution,12.4,43.2
+INC0231,2026-04-04,Engineering,T1110,Brute Force,Credential Access,22.1,22.8
+INC0232,2026-04-09,Corporate IT,T1110,Brute Force,Credential Access,16.0,17.1
+INC0233,2026-04-10,Corporate IT,T1567,Exfiltration Over Web Service,Exfiltration,8.2,44.0
+INC0234,2026-04-09,Corporate IT,T1566,Phishing,Initial Access,5.4,28.3
+INC0235,2026-04-15,Corporate IT,T1078,Valid Accounts,Initial Access,37.4,26.6
+INC0236,2026-04-22,Supply Chain,T1078,Valid Accounts,Initial Access,28.8,31.1
+INC0237,2026-04-24,Corporate IT,T1110,Brute Force,Credential Access,11.1,22.5
+INC0238,2026-04-25,Corporate IT,T1566,Phishing,Initial Access,12.8,30.7
+INC0239,2026-04-26,Supply Chain,T1021,Remote Services,Lateral Movement,12.3,13.6
+INC0240,2026-04-29,Plant OT,T1567,Exfiltration Over Web Service,Exfiltration,37.4,33.8
+INC0241,2026-05-06,Plant OT,T1566,Phishing,Initial Access,24.6,70.2
+INC0242,2026-05-09,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,22.5,35.9
+INC0243,2026-05-07,Engineering,T1566,Phishing,Initial Access,11.8,35.6
+INC0244,2026-05-04,Corporate IT,T1078,Valid Accounts,Initial Access,15.2,51.1
+INC0245,2026-05-09,Corporate IT,T1078,Valid Accounts,Initial Access,31.0,81.5
+INC0246,2026-05-13,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,12.1,18.4
+INC0247,2026-05-15,Corporate IT,T1078,Valid Accounts,Initial Access,13.1,24.1
+INC0248,2026-05-13,Engineering,T1021,Remote Services,Lateral Movement,8.6,16.8
+INC0249,2026-05-15,Supply Chain,T1021,Remote Services,Lateral Movement,21.6,71.8
+INC0250,2026-05-21,Plant OT,T1110,Brute Force,Credential Access,23.6,98.7
+INC0251,2026-05-26,Engineering,T1567,Exfiltration Over Web Service,Exfiltration,15.7,34.2
+INC0252,2026-05-27,Engineering,T1567,Exfiltration Over Web Service,Exfiltration,11.8,36.6
+INC0253,2026-06-07,Engineering,T1110,Brute Force,Credential Access,78.8,60.3
+INC0254,2026-06-07,Supply Chain,T1190,Exploit Public-Facing Application,Initial Access,23.9,16.1
+INC0255,2026-06-05,Engineering,T1566,Phishing,Initial Access,15.2,32.4
+INC0256,2026-06-04,Plant OT,T1566,Phishing,Initial Access,6.3,37.6
+INC0257,2026-06-11,Engineering,T1190,Exploit Public-Facing Application,Initial Access,22.5,106.8
+INC0258,2026-06-13,Engineering,T1486,Data Encrypted for Impact,Impact,12.6,51.6
+INC0259,2026-06-17,Plant OT,T1110,Brute Force,Credential Access,22.2,31.5
+INC0260,2026-06-24,Engineering,T1059,Command and Scripting Interpreter,Execution,13.3,13.8
+INC0261,2026-06-24,Engineering,T1059,Command and Scripting Interpreter,Execution,14.2,44.2
+INC0262,2026-07-01,Supply Chain,T1486,Data Encrypted for Impact,Impact,5.2,48.0
+INC0263,2026-06-30,Engineering,T1078,Valid Accounts,Initial Access,14.7,59.2
+INC0264,2026-06-30,Plant OT,T1566,Phishing,Initial Access,10.1,33.4
+INC0265,2026-07-03,Corporate IT,T1486,Data Encrypted for Impact,Impact,14.9,15.2
+INC0266,2026-07-12,Supply Chain,T1566,Phishing,Initial Access,8.3,35.6
+INC0267,2026-07-09,Engineering,T1566,Phishing,Initial Access,6.5,21.4
+INC0268,2026-07-08,Plant OT,T1566,Phishing,Initial Access,13.9,68.4
+INC0269,2026-07-16,Plant OT,T1566,Phishing,Initial Access,2.9,29.0
+INC0270,2026-07-19,Plant OT,T1078,Valid Accounts,Initial Access,8.2,27.6
+INC0271,2026-07-15,Plant OT,T1078,Valid Accounts,Initial Access,5.7,56.3
+INC0272,2026-07-16,Corporate IT,T1566,Phishing,Initial Access,21.3,28.7
+INC0273,2026-07-14,Supply Chain,T1078,Valid Accounts,Initial Access,22.5,14.1
+INC0274,2026-07-13,Engineering,T1059,Command and Scripting Interpreter,Execution,14.2,36.7
+INC0275,2026-07-23,Engineering,T1566,Phishing,Initial Access,22.0,39.9
+INC0276,2026-07-20,Supply Chain,T1566,Phishing,Initial Access,6.0,30.8
+INC0277,2026-07-21,Corporate IT,T1567,Exfiltration Over Web Service,Exfiltration,16.2,42.8
+INC0278,2026-07-30,Supply Chain,T1486,Data Encrypted for Impact,Impact,21.1,15.4
+INC0279,2026-07-29,Engineering,T1190,Exploit Public-Facing Application,Initial Access,19.8,14.1
+INC0280,2026-07-27,Plant OT,T1110,Brute Force,Credential Access,6.9,33.9
+INC0281,2026-08-05,Engineering,T1566,Phishing,Initial Access,14.8,16.5
+INC0282,2026-08-07,Corporate IT,T1566,Phishing,Initial Access,17.7,148.1
+INC0283,2026-08-08,Supply Chain,T1486,Data Encrypted for Impact,Impact,8.6,26.4
+INC0284,2026-08-10,Plant OT,T1567,Exfiltration Over Web Service,Exfiltration,16.0,15.9
+INC0285,2026-08-20,Corporate IT,T1059,Command and Scripting Interpreter,Execution,8.4,41.9
+INC0286,2026-08-17,Engineering,T1566,Phishing,Initial Access,44.9,29.1
+INC0287,2026-08-21,Corporate IT,T1566,Phishing,Initial Access,26.4,27.3
+INC0288,2026-08-29,Corporate IT,T1110,Brute Force,Credential Access,26.1,34.5
+INC0289,2026-08-26,Engineering,T1021,Remote Services,Lateral Movement,30.8,44.0
+INC0290,2026-08-26,Corporate IT,T1566,Phishing,Initial Access,46.8,39.3
+INC0291,2026-08-30,Supply Chain,T1567,Exfiltration Over Web Service,Exfiltration,26.3,45.0
+INC0292,2026-09-05,Plant OT,T1566,Phishing,Initial Access,76.4,36.0
+INC0293,2026-09-04,Supply Chain,T1078,Valid Accounts,Initial Access,32.0,14.6
+INC0294,2026-08-31,Corporate IT,T1566,Phishing,Initial Access,13.9,22.0
+INC0295,2026-09-02,Corporate IT,T1566,Phishing,Initial Access,17.5,33.3
+INC0296,2026-09-12,Corporate IT,T1021,Remote Services,Lateral Movement,19.3,16.5
+INC0297,2026-09-08,Corporate IT,T1190,Exploit Public-Facing Application,Initial Access,31.8,30.5
+INC0298,2026-09-29,Supply Chain,T1190,Exploit Public-Facing Application,Initial Access,34.8,39.9
+INC0299,2026-10-03,Engineering,T1078,Valid Accounts,Initial Access,12.3,36.5
+INC0300,2026-10-12,Supply Chain,T1078,Valid Accounts,Initial Access,53.7,46.8
+INC0301,2026-10-12,Engineering,T1566,Phishing,Initial Access,33.3,34.1
+INC0302,2026-10-25,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,31.1,15.5
+INC0303,2026-10-24,Engineering,T1566,Phishing,Initial Access,16.8,19.2
+INC0304,2026-10-23,Engineering,T1566,Phishing,Initial Access,10.7,26.4
+INC0305,2026-10-20,Corporate IT,T1566,Phishing,Initial Access,31.7,53.9
+INC0306,2026-10-25,Plant OT,T1190,Exploit Public-Facing Application,Initial Access,7.6,76.1

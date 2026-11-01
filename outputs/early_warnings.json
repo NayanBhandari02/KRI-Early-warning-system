@@ -1,0 +1,12 @@
+[
+  {
+    "kri": "patch_latency_critical",
+    "kri_name": "Critical patch latency",
+    "current_value": 23.25,
+    "current_status": "amber",
+    "projected_status": "red",
+    "projected_value": 30.63,
+    "weeks_until": 7,
+    "projected_week": "2026-12-13"
+  }
+]

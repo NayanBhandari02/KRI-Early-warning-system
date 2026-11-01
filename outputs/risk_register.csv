@@ -1,0 +1,4 @@
+risk_id,risk,likelihood,impact,score,worst_kri_status,drivers,early_warnings,impact_rationale
+R1,Ransomware halts plant production,4,5,20,amber,"Critical patch latency, Critical/high vulns open > 30 days, OT assets on unsupported OS",Critical patch latency,"Production stoppage, missed customer deliveries, recovery cost."
+R3,Undetected theft of engineering IP,3,4,12,amber,Mean time to detect,None,Loss of product designs and competitive position; possible export-control exposure.
+R2,Privileged credential compromise,2,4,8,green,None,None,Attacker gains admin control of business systems.
